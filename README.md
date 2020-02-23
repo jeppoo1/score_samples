@@ -1,2 +1,2 @@
 # score_samples
-Samples of sheet music (scores) I engrave
+Samples of sheet music (scores) I engrave with Avid Sibelius.
